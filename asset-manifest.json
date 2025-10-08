@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MathSlop/static/css/main.e6c13ad2.css",
+    "main.js": "/MathSlop/static/js/main.ee1c8f44.js",
+    "static/js/453.3575c0ed.chunk.js": "/MathSlop/static/js/453.3575c0ed.chunk.js",
+    "index.html": "/MathSlop/index.html",
+    "main.e6c13ad2.css.map": "/MathSlop/static/css/main.e6c13ad2.css.map",
+    "main.ee1c8f44.js.map": "/MathSlop/static/js/main.ee1c8f44.js.map",
+    "453.3575c0ed.chunk.js.map": "/MathSlop/static/js/453.3575c0ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ee1c8f44.js"
+  ]
+}
